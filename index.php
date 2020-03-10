@@ -1,0 +1,25 @@
+<?php
+require  'vendor/autoload.php';
+$car = new \car\Car();
+$car->start();
+$car->up();
+$car->up();
+$car->up();
+$car->up();
+$car->up();
+$car->up();
+$car->up();
+$car->up();
+$car->down();
+$car->down();
+$car->down();
+$car->down();
+$car->down();
+$car->down();
+$car->down();
+$car->down();
+$car->down();
+$car->moveback();
+$car->moveleft();
+$car->moveright();
+$car->stop();

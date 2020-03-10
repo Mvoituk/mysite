@@ -1,0 +1,17 @@
+{
+    "name": "mison/car",
+    "description": "car",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Misha Voituk",
+            "email": "mison4uk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "car\\": "src"
+        }
+    }
+}

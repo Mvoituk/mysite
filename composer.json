@@ -1,0 +1,23 @@
+    {
+    "name": "test/test",
+    "description": "test",
+    "type": "project",
+    "license": "no",
+    "authors": [
+        {
+            "name": "Misha Voituk",
+            "email": "mison4uk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+            {
+                "type": "path",
+                "url": "/home/mison/www/mysite.loc/car"
+            }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0@dev",
+        "mison/car": "*"
+    }
+}
