@@ -2,7 +2,7 @@
     "name": "test/test",
     "description": "test",
     "type": "project",
-    "license": "no",
+    "license": "MIT",
     "authors": [
         {
             "name": "Misha Voituk",
